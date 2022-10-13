@@ -6,7 +6,13 @@ module.exports = {
         },
         extend: {
             colors: {
-                lime: "#e6ebd9",
+                coral: "#E5736Dff",
+                linen: "#F2E6D9ff",
+                gainsboro: "#ededed",
+                jet: "#3A3737ff",
+                liver: "#654236",
+                rhythm: "#7D82B8",
+                lime: "#e6ebd9"
             },
         },
     },
